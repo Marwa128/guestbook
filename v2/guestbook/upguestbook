@@ -1,18 +1,18 @@
 The push refers to repository [us.icr.io/sn-labs-khmoff982/guestbook]
 5f70bf18a086: Preparing
-405c0b3aa857: Preparing
-c9ff60f4875f: Preparing
-5c5648a6f3c3: Preparing
-5eb6cec1c9ce: Preparing
-8db9948e6c97: Preparing
+f95ea93f4d9d: Preparing
+4c44325c3080: Preparing
+ca7293346729: Preparing
+c456447d9e9a: Preparing
+d9690cb8ef10: Preparing
 548a79621a42: Preparing
-8db9948e6c97: Waiting
+d9690cb8ef10: Waiting
 548a79621a42: Waiting
+f95ea93f4d9d: Layer already exists
+c456447d9e9a: Layer already exists
 5f70bf18a086: Layer already exists
-8db9948e6c97: Layer already exists
+ca7293346729: Layer already exists
+4c44325c3080: Layer already exists
+d9690cb8ef10: Layer already exists
 548a79621a42: Layer already exists
-c9ff60f4875f: Pushed
-405c0b3aa857: Pushed
-5eb6cec1c9ce: Pushed
-5c5648a6f3c3: Pushed
-v2: digest: sha256:fbdba7033b6c0cf349956e90c0ca62b834f9070ec6693edee3caa57234dff689 size: 1776
+v2: digest: sha256:2221db67441e8ddbbb4e5217efcf8b92a70d266ade23dc1f41fdd151f968e3e2 size: 1776

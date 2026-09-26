@@ -1,0 +1,5 @@
+deployment.apps/guestbook 
+REVISION  CHANGE-CAUSE
+2         kubectl set image deployment/guestbook guestbook=us.icr.io/sn-labs-khmoff982/guestbook:v2 --record=true
+3         <none>
+
