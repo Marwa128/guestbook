@@ -1,18 +1,18 @@
 deployment.apps/guestbook with revision #2
 Pod Template:
   Labels:	app=guestbook
-	pod-template-hash=5d75bd8966
+		pod-template-hash=5d75bd8966
   Annotations:	kubernetes.io/change-cause: kubectl set image deployment/guestbook guestbook=us.icr.io/sn-labs-khmoff982/guestbook:v2 --record=true
   Containers:
-   guestbook:
-    Image:	us.icr.io/sn-labs-khmoff982/guestbook:v2
-    Port:	3000/TCP
-    Host Port:	0/TCP
-    Limits:
-      cpu:	50m
-    Requests:
-      cpu:	20m
-    Environment:	<none>
-    Mounts:	<none>
+	guestbook:
+	 Image:	us.icr.io/sn-labs-khmoff982/guestbook:v2
+	 Port:		3000/TCP
+	 Host Port:	0/TCP
+	 Limits:
+	  cpu:		5m
+	 Requests:
+	  cpu:		2m
+	 Environment:		<none>
+	 Mounts:	<none>
   Volumes:	<none>
 
